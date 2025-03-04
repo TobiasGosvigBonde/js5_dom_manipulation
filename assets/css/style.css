@@ -12,10 +12,10 @@ body.light {
 }
 
 body.dark {
-  --mainThemeColor: #280b0a;
+  --mainThemeColor: #1b0e0d;
   --headerText: #ffffff;
   --mainTextColor: #efb6b6;
-  --mainBgColor: rgb(43, 9, 9);
+  --mainBgColor: rgb(41, 29, 29);
   --padding: 1rem;
   --paddingLg: 2rem;
 }
